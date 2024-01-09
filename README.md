@@ -14,7 +14,7 @@ pip install pandas numpy matplotlib scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/iris-clustering.git
+git clone https://github.com/rajinmail/iris-clustering.git
 cd iris-clustering
 ```
 
